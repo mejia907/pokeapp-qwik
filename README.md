@@ -12,7 +12,7 @@
 
 Rename the file __.env.template__ for __.env__ and change var enviroment
 
-##Screenshots
+## Screenshots
 
 ![Image text](https://github.com/mejia907/pokeapp-qwik/blob/main/public/images/pokeapp_01.png)
 
